@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
  * Use the function printf
+ *
  * Your program should return 0
+ *
  */
 int main(void)
 {
