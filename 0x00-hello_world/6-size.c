@@ -1,10 +1,13 @@
 #include <stdio.h>
+
 /**
  * Warnings are allowed
+ *
  *
  * Your program should return 0
  *
  **/
+
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
