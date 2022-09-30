@@ -1,5 +1,5 @@
 !<arch>
-main.h/         1664525420  1000  1000  100664  650       `
+
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
